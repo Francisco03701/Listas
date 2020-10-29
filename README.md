@@ -1,20 +1,20 @@
 # Listas
 
-Este programa fue realizado para poder observar la función de listas 
+Este programa fue realizado para poder observar la función de listas.
 
-En esta parte del código se declara el arreglo y  las variables
+En esta parte del código se declara el arreglo y las variables.
 
 ![image](https://user-images.githubusercontent.com/71095993/97481259-27a68280-191a-11eb-97e3-45eaa162aa90.png)
 
-En este segmento del código se presentan los prototipos de funciones 
+En este segmento del código se presentan los prototipos de funciones. 
 
 ![image](https://user-images.githubusercontent.com/71095993/97481591-aa2f4200-191a-11eb-92d7-c9dc585de9ea.png)
 
-En este segmento del código de utiliza un ciclo do while para permitir que el usuario pueda agregar los datos que guste
+En este segmento del código de utiliza un ciclo do while para permitir que el usuario pueda agregar los datos que guste.
 
 ![image](https://user-images.githubusercontent.com/71095993/97481834-fbd7cc80-191a-11eb-93d8-eab0adc36473.png)
 
-En este segmento del código se muestra la lista 
+En este segmento del código se muestra la lista. 
 
 ![image](https://user-images.githubusercontent.com/71095993/97481922-18740480-191b-11eb-885f-8c95a2458d52.png)
 
