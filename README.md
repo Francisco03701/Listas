@@ -17,7 +17,7 @@ En este segmento del código se muestra la lista
 
 ![image](https://user-images.githubusercontent.com/71095993/97481922-18740480-191b-11eb-885f-8c95a2458d52.png)
 
-En este segmento del código se muestra como se insertan los elementos en la lista 
+En este segmento del código se muestra como se insertan los elementos en la lista
 
 ![image](https://user-images.githubusercontent.com/71095993/97482471-d0a1ad00-191b-11eb-9b97-61caf4ab7f3b.png)
 
