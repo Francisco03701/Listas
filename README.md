@@ -1,6 +1,6 @@
-# Listas
-
+# Lista
 Este programa fue realizado para poder observar la función de listas.
+
 
 En esta parte del código se declara el arreglo y las variables.
 
